@@ -43,3 +43,5 @@ limitations under the License.
 ----
 by [Vladimir Kostyukov](https://twitter.com/vkostyukov), 2011-2015
 
+The idea behind the for is to rewrite it in scala, make it java compatible and build it with maven.
+
