@@ -1,6 +1,5 @@
 package org.la4j
 
-import collection.JavaConverters._
 import scala.annotation.varargs
 
 object V {
