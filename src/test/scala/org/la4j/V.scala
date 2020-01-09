@@ -1,6 +1,7 @@
 package org.la4j
 
 import scala.annotation.varargs
+import scala.collection.JavaConverters._
 
 object V {
   @varargs def v(values: Double*): Vector = {
